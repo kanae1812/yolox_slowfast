@@ -1,0 +1,17 @@
+1: bend/bow (at the waist)
+5: fall down
+8: lie/sleep/fall down
+9: martial art
+10: run/jog
+14: walk
+20: climb (e.g., a mountain)
+34: hit (an object)
+46: push (an object)
+49: ride (e.g., a bike, a car, a horse)
+54: smoke
+58: throw
+66: grab (a person)
+64: fight/hit (a person)
+66: grab (a person)
+76: push (another person
+80: watch (a person)
